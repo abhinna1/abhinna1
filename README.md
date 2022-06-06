@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m Abhinna Manandhar. </h1>
-<img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g">
+<img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" | width=100>
 <hr>
 I am currently studying BSc(Hons.) Computing from Coventry University.
 I am keen to learn more and am gaining experience in the field of programming and computer science.
