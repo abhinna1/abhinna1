@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Abhinna Manandhar. </h1>
+<h1 style="display{inline-block}"> 👋 Hi, I’m Abhinna Manandhar. </h1>
 <img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=100>
 <hr>
 I am currently studying BSc(Hons.) Computing from Coventry University.
