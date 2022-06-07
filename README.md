@@ -1,4 +1,4 @@
-<h4>👋 Hi, I’m Abhinna Manandhar.<h4> <img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=100>
+<h4>👋 Hi, I’m Abhinna Manandhar.x <img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=100px></h4>
 [twitter]: https://twitter.com/AbhinnaMdr
 [linkedin]: https://www.linkedin.com/in/abhinna-/
 
