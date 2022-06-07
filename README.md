@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhinna Manandhar.
+# 👋 Hi, I’m Abhinna Manandhar. #
 <img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=200>
 [twitter]: https://twitter.com/AbhinnaMdr
 [linkedin]: https://www.linkedin.com/in/abhinna-/
