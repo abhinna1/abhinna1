@@ -3,7 +3,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20AbhinnaMdr)](https://twitter.com/AbhinnaMdr)
 
-[Linkedin](https://www.linkedin.com/in/abhinna-/)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abhinna-/)
 
 
 
