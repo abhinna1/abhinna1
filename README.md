@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/abhinna-/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/abhinna1" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  <a href="https://twitter.com/AbhinnaMdr" rel="nofollow noreferrer">
+    <img src="https://i.imgur.com/7tVYAeF.png" alt="twitter"> GitTwitterhub
   </a>
 </p>
 
