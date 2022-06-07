@@ -3,7 +3,7 @@
 <h3>
 
  
-<h1>Social <img src="https://media2.giphy.com/media/l3vR4SFn7LLJf8WQM/200w.webp?cid=ecf05e47qkvd16wp3c9gmiiaggwpc71ft7fxaky3zkbprtin&rid=200w.webp&ct=g"></h1>
+<h1>Social <img src="https://media2.giphy.com/media/l3vR4SFn7LLJf8WQM/200w.webp?cid=ecf05e47qkvd16wp3c9gmiiaggwpc71ft7fxaky3zkbprtin&rid=200w.webp&ct=g" | width=100></h1>
 
 <p float="left">
 
