@@ -12,7 +12,9 @@ I aim for becoming a successful software developer and to
 
 <p float="left">
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/) <img src="https://i.gifer.com/origin/e5/e597e46b1e94469b664ba3ec04b3c097_w200.webp" | width=100>
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/)   [<img src='https://i.gifer.com/7Da1.mp4'>](https://www.instagram.com/abhinna.zip/)
+
+
 </p>
 
 
