@@ -2,12 +2,9 @@
 <img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=200>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20AbhinnaMdr)](https://twitter.com/AbhinnaMdr)
+[![Linkedin URL](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/abhinna-/)
 
-<p>
-  <a href="https://www.linkedin.com/in/abhinna-/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-</p>
+
 
 
 ### About Me
