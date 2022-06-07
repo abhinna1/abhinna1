@@ -11,9 +11,7 @@ I aim for becoming a successful software developer and to
 <h1>Social</h1>
 
 <p float="right">
-<img src='https://media0.giphy.com/media/3QwogXfR2vfZS/giphy.gif?cid=ecf05e475lvq8uchexwh3aykmd67p642nrl034e3cy6y9aor&rid=giphy.gif&ct=g' | width=200>
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/)
+<img src='https://media0.giphy.com/media/3QwogXfR2vfZS/giphy.gif?cid=ecf05e475lvq8uchexwh3aykmd67p642nrl034e3cy6y9aor&rid=giphy.gif&ct=g' | width=200>   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/)
 
 
 </p>
