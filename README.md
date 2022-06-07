@@ -8,7 +8,7 @@ programming and development.
 I aim for becoming a successful software developer and to 
 
  
-# Social <img src='https://media3.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif?cid=ecf05e475lvq8uchexwh3aykmd67p642nrl034e3cy6y9aor&rid=giphy.gif&ct=g' width="50">
+# Social <img src='https://i.gifer.com/3nRK.gif' width="50">
 
 <p float="right">
 
