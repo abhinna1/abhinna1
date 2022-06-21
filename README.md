@@ -4,8 +4,8 @@
 
 # About Me
 I am an energetic tech enthusiast with my skills and knowledge layed out on the field of
-programming and development.
-I aim for becoming a successful software developer and to 
+programming and software development.
+I aim for becoming a successful software developer and to serve the community with my skills.
 
  
 # Social <img src='https://i.gifer.com/3nRK.gif' width="50">
