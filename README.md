@@ -21,12 +21,13 @@ I aim for becoming a successful software developer and to serve the community wi
 # Certifications
 
 <p float="right">
+
 ![picture alt](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white "HackerRank")
 
 *[Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/0231578e58ec)
 *[Python (Basic) Certificate](https://www.hackerrank.com/certificates/2e1cb76cdace)
 
-![picture alt](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "HackerRank")
+![picture alt](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")
 
 *[LinkedIn Learning Certificate of Completion](https://www.linkedin.com/learning/certificates/1d0a12e14fac721c22fe65a50127d75910e0b8196976bc449a13b2ba08baebdb?u=2039756)
 </p>
