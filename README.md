@@ -10,7 +10,7 @@ I aim for becoming a successful software developer and to serve the community wi
 
 # My Github Stats
 
-[![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=false&theme=radical)](https://github.com/abhinna1)
+[![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=true&theme=radical)](https://github.com/abhinna1)
 
 # Certifications
 
