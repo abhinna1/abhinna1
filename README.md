@@ -8,7 +8,7 @@ programming and software development.
 I aim for becoming a successful software developer and to serve the community with my skills.
 
 # My Github Stats
-![Abhinna's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=true))
+![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=false)
 
 # Certifications
 
