@@ -3,12 +3,14 @@
 <h3>
 
 # About Me
+
 I am an energetic tech enthusiast with my skills and knowledge layed out on the field of
 programming and software development.
 I aim for becoming a successful software developer and to serve the community with my skills.
 
 # My Github Stats
-![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=false)
+
+[![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Certifications
 
@@ -24,17 +26,11 @@ I aim for becoming a successful software developer and to serve the community wi
 * [LinkedIn Learning Certificate of Completion - Test Driven Development in Django](https://www.linkedin.com/learning/certificates/1d0a12e14fac721c22fe65a50127d75910e0b8196976bc449a13b2ba08baebdb?u=2039756)
 
 </p>
- 
- # Socials
+
+# Socials
 
 <p float="right">
 
  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/)
 
-
 </p>
-
-
-
-
-
