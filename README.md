@@ -25,6 +25,10 @@ I aim for becoming a successful software developer and to serve the community wi
 
 * [LinkedIn Learning Certificate of Completion - Test Driven Development in Django](https://www.linkedin.com/learning/certificates/1d0a12e14fac721c22fe65a50127d75910e0b8196976bc449a13b2ba08baebdb?u=2039756)
 
+![picture alt](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white "Tableau")
+
+* [Data Analytics for Business with Tableau Training](https://schoolworkspro.com/certificate/640a1834ba069cec1a0079dd)
+
 </p>
 
 # Socials
