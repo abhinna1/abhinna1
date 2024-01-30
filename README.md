@@ -1,40 +1,37 @@
-<h1> 👋 Hi, I’m Abhinna Manandhar. 👋</h1>
-<img src = "https://media4.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47ockgixy8c67al85zgzkuuxibnfwlcthfnlaldm3m&rid=giphy.gif&ct=g" style="display{inline-block}"| width=200>
-<h3>
+# 👋 Hi, I’m Abhinna Manandhar. 👋
 
-# About Me
+<img src="./images/hello.gif" alt="Hello" width="200"/>
+
+## About Me
 
 I am an energetic tech enthusiast with my skills and knowledge layed out on the field of
 programming and software development.
 I aim for becoming a successful software developer and to serve the community with my skills.
 
-# My Github Stats
+## My Github Stats
 
 [![Abhinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinna1&count_private=true&theme=radical)](https://github.com/abhinna1)
 
-# Certifications
+## Certifications
 
-<p float="right">
+<!-- Tableau -->
+![picture alt](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white "Tableau")
 
+* [Data Analytics for Business with Tableau Training](https://schoolworkspro.com/certificate/640a1834ba069cec1a0079dd)
+
+<!-- HackerRank -->
 ![picture alt](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white "HackerRank")
 
 * [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/0231578e58ec)
 * [Python (Basic) Certificate](https://www.hackerrank.com/certificates/2e1cb76cdace)
 
+<!-- Linkedin -->
 ![picture alt](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")
 
 * [LinkedIn Learning Certificate of Completion - Test Driven Development in Django](https://www.linkedin.com/learning/certificates/1d0a12e14fac721c22fe65a50127d75910e0b8196976bc449a13b2ba08baebdb?u=2039756)
 
-![picture alt](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white "Tableau")
+## Socials
 
-* [Data Analytics for Business with Tableau Training](https://schoolworkspro.com/certificate/640a1834ba069cec1a0079dd)
-
-</p>
-
-# Socials
-
-<p float="right">
-
- [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/abhinna-/)   [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/AbhinnaMdr)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/abhinna.zip/)
-
-</p>
+[![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinna-/)<!-- linkedin -->
+[![twitter logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>)](https://twitter.com/AbhinnaMdr)<!-- twitter -->
+[![instagram logo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>)](https://www.instagram.com/abhinna.zip/)<!-- instagram -->
