@@ -4,9 +4,11 @@
 
 ## About Me
 
-I am an energetic tech enthusiast with my skills and knowledge layed out on the field of
-programming and software development.
-I aim for becoming a successful software developer and to serve the community with my skills.
+I am a software engineer and a computer science enthusiast.
+I enjoy learning new programming tools and technologies.
+Currently, I am working full-time as a Python developer for a VoIP product.
+I am also learning Go and Redis during my free time.
+I like to play video games and my ukulele and electric guitar during my leisure time.
 
 ## My Github Stats
 
@@ -29,6 +31,15 @@ I aim for becoming a successful software developer and to serve the community wi
 ![picture alt](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")
 
 * [LinkedIn Learning Certificate of Completion - Test Driven Development in Django](https://www.linkedin.com/learning/certificates/1d0a12e14fac721c22fe65a50127d75910e0b8196976bc449a13b2ba08baebdb?u=2039756)
+
+## Open-Source Contributions
+
+1. [UltimatePython](https://github.com/huangsam/ultimate-python)
+    * [Encapsulation](https://github.com/huangsam/ultimate-python/pull/79)
+
+2. [Moneyapp](https://github.com/iokiwi/moneyapp)
+    * [Import JSON](https://github.com/iokiwi/moneyapp/pull/51)
+    * [Export as JSON implemented.](https://github.com/iokiwi/moneyapp/pull/44)
 
 ## Socials
 
