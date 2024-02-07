@@ -8,7 +8,7 @@ I am a software engineer and a computer science enthusiast.
 I enjoy learning new programming tools and technologies.
 Currently, I am working full-time as a Python developer for a VoIP product.
 I am also learning Go and Redis during my free time.
-I like to play video games and my ukulele and electric guitar during my leisure time.
+I also like to play video games and my ukulele and electric guitar.
 
 ## My Github Stats
 
@@ -46,3 +46,4 @@ I like to play video games and my ukulele and electric guitar during my leisure 
 [![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinna-/)<!-- linkedin -->
 [![twitter logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>)](https://twitter.com/AbhinnaMdr)<!-- twitter -->
 [![instagram logo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>)](https://www.instagram.com/abhinna.zip/)<!-- instagram -->
+
