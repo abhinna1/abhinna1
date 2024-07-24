@@ -6,7 +6,7 @@
 
 I am a software engineer and a computer science enthusiast.
 I enjoy learning new programming tools and technologies.
-Currently, I am working full-time as a Python developer for a VoIP product.
+Currently, I am working full-time as a Python developer for a VoIP SaaS.
 I am also learning Go and Redis during my free time.
 I also like to play video games and my ukulele and electric guitar.
 
