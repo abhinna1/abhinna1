@@ -4,11 +4,12 @@
 
 ## About Me
 
-I am a software engineer and a computer science enthusiast.
-I enjoy learning new programming tools and technologies.
-Currently, I am working full-time as a Python developer for a VoIP SaaS.
-I am also learning Go and Redis during my free time.
-I also like to play video games and my ukulele and electric guitar.
+Currently, a graduate student, pursuing my MS in Computer Science and Engineering at the University at Buffalo.
+I have great passion for technology, and have 2 YOE in Software Engineering domain.
+
+While my expertese is mostly in Python and Back-end development, I am open and stay updated with the latest tools and technologies.
+
+P.S. I love R&D and Scrum.
 
 ## My Github Stats
 
